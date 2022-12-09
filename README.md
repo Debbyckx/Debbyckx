@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deborah Clerckx</h1>
 <h3 align="center">A passionate developer from 🇧🇪 Belgium</h3>
 
-<img align="right" alt="Coding" width="400" src="https://finbuzzactu.files.wordpress.com/2016/12/thumbnail-4.gif">
+<img align="right" alt="Coding" width="380" src="https://finbuzzactu.files.wordpress.com/2016/12/thumbnail-4.gif">
 
 - 👯 I want to collaborate on **Projects who's Human centered**
 - 🔭 I’m currently working on **Vejimo**
