@@ -14,6 +14,7 @@
 **`Chill`** • **`Friendly`** • **`Team spirit`** • **`Solutions oriented`**
 
 #
+<h3 align="left">Contact Me</h3>
 <p align="left">
   <a
      href="https://linkedin.com/in/deborahclerckx/" 
