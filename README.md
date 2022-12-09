@@ -3,13 +3,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://finbuzzactu.files.wordpress.com/2016/12/thumbnail-4.gif">
 
-- 😄 Pronouns **She/Her**
-- 👀 I like **Photography**, **Discovering new stuff**
 - 👯 I want to collaborate on **Projects who's Human centered**
 - 🔭 I’m currently working on **Vejimo**
 - 🌱 I’m currently learning **JavaScript**, **React**
 - 📫 How to reach me **deborahclerckx@gmail**
-- ⚡ Fun fact **I like to dance code on my chair when i'm coding.**
+- ⚡ Fun fact **I like to dance on my chair when i'm coding.**
+- 😄 Pronouns **She/Her**
+- 👀 My hobbies **Photography**, **Watch anime**, **Discovering new stuff**
 
 **`Chill`** • **`Friendly`** • **`Team spirit`** • **`Solutions oriented`**
 
